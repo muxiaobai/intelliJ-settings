@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$EditorTranslateAction" />
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction" />
   <action id="BuildArtifact">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
