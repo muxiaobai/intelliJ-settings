@@ -1,0 +1,137 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>upload</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/SearchApplication.java" timestamp="1588900571802">
+        <mark key="[" line="25" column="20" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/controller/IndexMappingController.java" timestamp="1588901007765">
+        <mark key="[" line="17" column="51" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/common/util/ESMappingUtil.java" timestamp="1588901755078">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="97" column="11" />
+        <mark key="^" line="97" column="11" />
+        <mark key="." line="97" column="10" />
+      </file>
+      <file name="/2020-05-08 09:47:49,269 …al char &lt;:&gt; at index 5: $" timestamp="1588902484678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/elasticsearch/BaseIndexServiceImpl.java" timestamp="1588907719213">
+        <mark key="'" line="559" column="0" />
+        <mark key="[" line="178" column="67" />
+        <mark key="]" line="178" column="67" />
+        <mark key="^" line="178" column="67" />
+        <mark key="." line="178" column="66" />
+      </file>
+      <file name="E:/workspace/cv/VSB2008/02_SourceCode/src/webber/vsb/newstransmit/manage/NewsImportManage.java" timestamp="1588903784570">
+        <mark key="'" line="1460" column="12" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/elasticsearch/CommonController.java" timestamp="1588902838070">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1598334015932">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/service/impl/IndexMappingFieldServiceImpl.java" timestamp="1598334079364" />
+      <file name="/fragment.java" timestamp="1588905876619">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="558" column="0" filename="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/elasticsearch/BaseIndexServiceImpl.java" />
+      <jump line="249" column="12" filename="E:/workspace/cv/VSB2008/02_SourceCode/src/webber/vsb/newstransmit/manage/NewsImportManage.java" />
+      <jump line="1460" column="12" filename="E:/workspace/cv/VSB2008/02_SourceCode/src/webber/vsb/newstransmit/manage/NewsImportManage.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gZGF0YS5yZXBsYWNlKCI6bnVsbCIsICJcIlwiIik7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gZGF0YS5yZXBsYWNlKCI6bnVsbCIsICJcIlwiIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gZGF0YS5yZXBsYWNlKCI6bnVsbCIsICJcIlwiIik7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>jsonObject.replace(&quot;:null&quot;, &quot;\&quot;\&quot;&quot;)</text>
+      </register>
+      <register name="/" type="4">
+        <text>upload</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>upload</last-search>
+      <last-offset />
+      <last-pattern>upload</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

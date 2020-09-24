@@ -1,0 +1,19 @@
+<templateSet group="Java">
+  <template name="/*" value="/**&#10; *  &#10; * @author  Zhang Pengfei&#10; * @date $date$ $time$&#10;$params$&#10; * @return $return$&#10; */ " shortcut="ENTER" description="comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + '\\t' + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="aa" value="/**&#10;* @author Zhang Pengfei&#10;* @TODO   $TODO$&#10;* @date $DATE$ $TIMEA$&#10;* @version V1.0&#10;* @Copyright © 2000-2019 Xi'an Webber Software. All Rights Reserved.&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIMEA" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

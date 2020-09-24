@@ -1,0 +1,45 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/muxiaobai/rpc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="muxiaobai" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://zhangpf@192.168.150.2:18080/r/app/app-cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.150.2:18080" />
+          <option name="userName" value="zhangpf" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://123.57.34.235:9091" />
+          <option name="userName" value="zhangpf" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.63:9091" />
+          <option name="userName" value="zhangpf" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.63:9091/root/app-search" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.63:9091/root/app-auth" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.63:9091/root/app-gateway" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\workspace\idea" />
+  </component>
+</application>

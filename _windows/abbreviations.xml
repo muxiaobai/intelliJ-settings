@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="GotoImplementation">
+        <abbreviation name="Ctrl + Button1 Click" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

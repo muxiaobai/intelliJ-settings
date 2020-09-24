@@ -1,0 +1,65 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Delegate" />
+      <item value="resolve" />
+      <item value="resove" />
+      <item value="obtain" />
+      <item value="Bound" />
+      <item value="extended" />
+      <item value="extendedBound" />
+      <item value="extendedBounds" />
+      <item value="deduce" />
+      <item value="Inherited" />
+      <item value="Determine" />
+      <item value="Hash Map" />
+      <item value="StopWordDictionary stopWordDictionary = new StopWordDictionary(&quot;data/stopWord.txt&quot;);" />
+      <item value="Stemming" />
+      <item value="Porter" />
+      <item value="enable Porter Stemming" />
+      <item value="WORDTYPE segmentation" />
+      <item value="stop Pruning" />
+      <item value="String phash = p.getHash(in);" />
+      <item value="            X Content Builder.builder(Json X Content.json X Content).copy Current Structure();&#10;" />
+      <item value="injected" />
+      <item value="availableProcessors" />
+      <item value="sharding" />
+      <item value=" sphere" />
+      <item value="sharding sphere" />
+      <item value="Instantiation Exception" />
+      <item value="get No Id Session User" />
+      <item value="通讯地址" />
+      <item value="个人用户" />
+      <item value="单位用户" />
+      <item value="单位" />
+      <item value="IntelliJ IDEA coverage runner" />
+      <item value="coverage" />
+      <item value="instance" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
