@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/muxiaobai/spring-framework" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/muxiaobai/spring-boot" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\git" />
