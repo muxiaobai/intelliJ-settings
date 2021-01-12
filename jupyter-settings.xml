@@ -1,0 +1,17 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="E:/workspace/git/python/.idea/python.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="readOnly" value="true" />
+              <option name="token" value="f72efd0ec3d4a33f3e6364194376a499fe8fcf8e81080877" />
+              <option name="urlString" value="http://localhost:8888" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
