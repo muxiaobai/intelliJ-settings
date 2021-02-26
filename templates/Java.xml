@@ -8,7 +8,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="aa" value="/**&#10;* @author Zhang Pengfei&#10;* @TODO   $TODO$&#10;* @date $DATE$ $TIMEA$&#10;* @version V1.0&#10;* @Copyright © 2000-2019 Xi'an Webber Software. All Rights Reserved.&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="aa" value="/**&#10;* @author Zhang Pengfei&#10;* @TODO   $TODO$&#10;* @date $DATE$ $TIMEA$&#10;* @version V1.0&#10;* @Copyright © 2000-2021 Xi'an Webber Software. All Rights Reserved.&#10;*/" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="TIMEA" expression="time()" defaultValue="" alwaysStopAt="true" />
