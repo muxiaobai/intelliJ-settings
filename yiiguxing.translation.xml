@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ranker" />
       <item value="goverment" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration " />
       <item value="Delegate" />
