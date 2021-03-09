@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="hadoop-lib">
+      <CLASSES>
+        <root url="file://E:/tools/bigdata/hadoop-3.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://E:/tools/bigdata/hadoop-3.2.2/lib" recursive="false" />
+    </library>
     <library name="Python 3.5 (tensorflow) interpreter library">
       <CLASSES>
         <root url="file://E:/ProgramData/Anaconda3/envs/tensorflow/DLLs" />
