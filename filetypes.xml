@@ -2,12 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="idea" type="ActionScript" />
+      <mapping pattern="WebberAutoConfiguration" type="JAVA" />
+      <mapping pattern="AUtoConfiguration" type="JAVA" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
