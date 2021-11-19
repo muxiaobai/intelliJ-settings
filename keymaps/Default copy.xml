@@ -2,10 +2,18 @@
   <action id="$EditorTranslateAction" />
   <action id="$ShowTranslationDialogAction" />
   <action id="$TranslateAndReplaceAction" />
+  <action id="AliP3CInspectionAction" />
   <action id="BuildArtifact">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Console.TableResult.FindInGrid">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="ExecuteInPyConsoleAction" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ParserActionId" />
   <action id="Popup.PopupChoiceAction" />
   <action id="RerunTests" />
   <action id="RevealIn">
@@ -15,5 +23,13 @@
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
 </keymap>
