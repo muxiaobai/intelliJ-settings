@@ -1,0 +1,6 @@
+<application>
+  <component name="EndpointStore">
+    <option name="proxyHost" value="" />
+    <option name="proxyType" value="HTTP代理" />
+  </component>
+</application>
