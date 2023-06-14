@@ -1,26 +1,26 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="idea" type="ActionScript" />
-      <mapping pattern="WebberAutoConfiguration" type="JAVA" />
       <mapping pattern="AUtoConfiguration" type="JAVA" />
-      <mapping ext="hprof" type="JProfiler Snapshot" />
-      <mapping ext="phd" type="JProfiler Snapshot" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="WebberAutoConfiguration" type="JAVA" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="py" approved="true" type="Python" />
       <removed_mapping ext="py" approved="true" type="Python" />
     </extensionMap>
   </component>
