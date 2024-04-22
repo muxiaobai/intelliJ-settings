@@ -51,4 +51,18 @@
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1713751535278" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="max result window" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
