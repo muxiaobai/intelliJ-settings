@@ -17,6 +17,7 @@
       <mapping pattern="Q1" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
+      <mapping pattern="nativa" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
