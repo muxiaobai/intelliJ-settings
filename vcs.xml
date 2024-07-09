@@ -102,9 +102,13 @@
           <option name="url" value="http://192.168.110.92:9091/boda-ai/fscrawler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/muxiaobai/elasticsearch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\idea" />
+    <option name="cloneParentDir" value="E:\workspace\git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
