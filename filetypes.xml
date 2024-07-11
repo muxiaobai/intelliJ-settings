@@ -10,6 +10,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern="Q1" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
@@ -17,6 +18,7 @@
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="null" type="PLAIN_TEXT" />
+      <mapping pattern="nativa" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
