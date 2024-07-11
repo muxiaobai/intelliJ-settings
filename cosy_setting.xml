@@ -41,12 +41,16 @@
               <option value="/explain code" />
               <option value="/generate unit test" />
               <option value="/generate optimization" />
+              <option value="@see 引用爆红" />
+              <option value="@see 属性" />
+              <option value="@doc 引用属性" />
             </list>
           </value>
         </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
