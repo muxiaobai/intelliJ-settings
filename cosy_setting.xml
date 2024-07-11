@@ -44,6 +44,9 @@
               <option value="@see 引用爆红" />
               <option value="@see 属性" />
               <option value="@doc 引用属性" />
+              <option value="Client not connected,current status STARTING" />
+              <option value="Nacos Expection Client not connected,current status STARTING" />
+              <option value="增加超时时间：在 Nacos 客户端配置中增加请求超时时间，以便给 Nacos 服务器更多的时间来完成启动过程。&#10;实现重试逻辑：在客户端代码中实现重试逻辑，当首次请求失败时，可以自动重试几次，直到 Nacos 服务器准备就绪。 怎么配置" />
             </list>
           </value>
         </entry>
