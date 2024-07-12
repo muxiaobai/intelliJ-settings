@@ -51,6 +51,13 @@
             </list>
           </value>
         </entry>
+        <entry key="app-search|203852406604862731">
+          <value>
+            <list>
+              <option value="JsonNode 通过 字符串获取全部的节点数据" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
