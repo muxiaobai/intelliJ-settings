@@ -55,6 +55,9 @@
           <value>
             <list>
               <option value="JsonNode 通过 字符串获取全部的节点数据" />
+              <option value="java: for-each 不适用于表达式类型&#10;  要求: 数组或 java.lang.Iterable&#10;  找到:    java.util.Iterator&lt;java.lang.String&gt;" />
+              <option value="for (String fieldName : node.fieldNames()) {&#10;                System.out.println(&quot;Field Name: &quot; + fieldName);&#10;                traverseJsonNode(node.get(fieldName));&#10;            } 报错" />
+              <option value="String jsonString = &quot;{\&quot;key1\&quot;:\&quot;value1\&quot;,\&quot;key2\&quot;:{\&quot;subKey1\&quot;:\&quot;subValue1\&quot;}}&quot;;&#10;给一个 'key1.key2' 获取值" />
             </list>
           </value>
         </entry>
