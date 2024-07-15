@@ -50,6 +50,8 @@
               <option value="bulkProcessor.isClosed();  没有这个方法" />
               <option value="list 转string 用空格连接" />
               <option value="java 中" />
+              <option value="/generate optimization" />
+              <option value="策略模式 多种ModelContentTypeEnum类型的数据" />
             </list>
           </value>
         </entry>
