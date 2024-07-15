@@ -65,6 +65,16 @@
             </list>
           </value>
         </entry>
+        <entry key="elasticsearch-main|203852406604862731">
+          <value>
+            <list>
+              <option value="distributionSha256Sum  下载失败" />
+              <option value="Verification of Gradle distribution failed!" />
+              <option value="Verification of Gradle distribution failed!&#10;&#10;Your Gradle distribution may have been tampered with.&#10;Confirm that the 'distributionSha256Sum' property in your gradle-wrapper.properties file is correct and you are downloading the wrapper from a trusted source." />
+              <option value="Exception java.nio.file.InvalidPathException: Illegal char &lt;&gt;&gt; [in thread &quot;Connection worker&quot;]" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
