@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="ApplicationTest" type="JAVA" />
       <mapping pattern="WebberAutoConfiguration" type="JAVA" />
       <mapping pattern="AUtoConfiguration" type="JAVA" />
