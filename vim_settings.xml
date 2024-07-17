@@ -10,6 +10,8 @@
       <history-cmd>
         <entry>wq</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -66,14 +68,9 @@
       <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/elasticsearch/rabbitmq/model/ModelHandleFactory.java" timestamp="1721182719621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/SearchApplication.java" timestamp="1588900571802">
-        <mark key="[" line="25" column="20" />
-      </file>
-      <file name="E:/workspace/idea/searchserver/SearchServer/src/main/java/webber/open/searchserver/frame/search/method/impl/es/ESInitUtil.java" timestamp="1721026683634">
-        <mark key="[" line="232" column="0" />
-      </file>
+      <file name="E:/workspace/idea/searchserver/SearchServer/src/main/java/webber/open/searchserver/frame/common/constant/ModelContentTypeEnum.java" timestamp="1721210373400" />
       <file name="E:/workspace/idea/searchserver/SearchServer/src/main/java/webber/open/searchserver/common/HanLPTest.java" timestamp="1721022225035">
-        <mark key="[" line="23" column="8" />
+        <mark key="[" line="26" column="8" />
       </file>
       <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/controller/IndexMappingController.java" timestamp="1588901007765">
         <mark key="[" line="17" column="51" />
@@ -88,8 +85,8 @@
         <mark key="^" line="178" column="67" />
         <mark key="." line="178" column="66" />
       </file>
-      <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/common/constant/ModelContentTypeEnum.java" timestamp="1720771475295">
-        <mark key="[" line="127" column="8" />
+      <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/common/constant/ModelContentTypeEnum.java" timestamp="1721210949874">
+        <mark key="[" line="259" column="72" />
       </file>
       <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/elasticsearch/rabbitmq/ContentHandleModelRecord.java" timestamp="1720774233467">
         <mark key="[" line="86" column="12" />
