@@ -1,0 +1,86 @@
+<application>
+  <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="C:\Users\Administrator\.lingma" />
+    <option name="manualOpenLocalModel" value="true" />
+    <option name="parameter">
+      <ChangeUserSettingParams>
+        <option name="allowReportUsage" value="true" />
+        <option name="cloud">
+          <CloudModelParam>
+            <option name="autoTrigger">
+              <CloudModelAutoTrigger>
+                <option name="enable" value="true" />
+                <option name="generateLength" value="level_1" />
+                <option name="modelLevel" value="large" />
+              </CloudModelAutoTrigger>
+            </option>
+            <option name="enable" value="true" />
+            <option name="manualTrigger">
+              <CloudModelManualTrigger>
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelManualTrigger>
+            </option>
+          </CloudModelParam>
+        </option>
+        <option name="local">
+          <LocalModelParam>
+            <option name="enable" value="true" />
+            <option name="inferenceMode" value="auto" />
+            <option name="maxCandidateNum" value="3" />
+          </LocalModelParam>
+        </option>
+      </ChangeUserSettingParams>
+    </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="SearchServer|203852406604862731">
+          <value>
+            <list>
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="/generate optimization" />
+              <option value="@see 引用爆红" />
+              <option value="@see 属性" />
+              <option value="@doc 引用属性" />
+              <option value="Client not connected,current status STARTING" />
+              <option value="Nacos Expection Client not connected,current status STARTING" />
+              <option value="增加超时时间：在 Nacos 客户端配置中增加请求超时时间，以便给 Nacos 服务器更多的时间来完成启动过程。&#10;实现重试逻辑：在客户端代码中实现重试逻辑，当首次请求失败时，可以自动重试几次，直到 Nacos 服务器准备就绪。 怎么配置" />
+              <option value="bulkProcessor.isClosed();  没有这个方法" />
+              <option value="list 转string 用空格连接" />
+              <option value="java 中" />
+              <option value="/generate optimization" />
+              <option value="策略模式 多种ModelContentTypeEnum类型的数据" />
+            </list>
+          </value>
+        </entry>
+        <entry key="app-search|203852406604862731">
+          <value>
+            <list>
+              <option value="JsonNode 通过 字符串获取全部的节点数据" />
+              <option value="java: for-each 不适用于表达式类型&#10;  要求: 数组或 java.lang.Iterable&#10;  找到:    java.util.Iterator&lt;java.lang.String&gt;" />
+              <option value="for (String fieldName : node.fieldNames()) {&#10;                System.out.println(&quot;Field Name: &quot; + fieldName);&#10;                traverseJsonNode(node.get(fieldName));&#10;            } 报错" />
+              <option value="String jsonString = &quot;{\&quot;key1\&quot;:\&quot;value1\&quot;,\&quot;key2\&quot;:{\&quot;subKey1\&quot;:\&quot;subValue1\&quot;}}&quot;;&#10;给一个 'key1.key2' 获取值" />
+              <option value="String jsonString = &quot;{\&quot;key1\&quot;:\&quot;value1\&quot;,\&quot;key2\&quot;:{\&quot;subKey1\&quot;:\&quot;subValue1\&quot;}}&quot;;&#10;给一个 'key1.subKey1' 有数组情况" />
+              <option value="如果key1是数组怎么班" />
+            </list>
+          </value>
+        </entry>
+        <entry key="elasticsearch-main|203852406604862731">
+          <value>
+            <list>
+              <option value="distributionSha256Sum  下载失败" />
+              <option value="Verification of Gradle distribution failed!" />
+              <option value="Verification of Gradle distribution failed!&#10;&#10;Your Gradle distribution may have been tampered with.&#10;Confirm that the 'distributionSha256Sum' property in your gradle-wrapper.properties file is correct and you are downloading the wrapper from a trusted source." />
+              <option value="Exception java.nio.file.InvalidPathException: Illegal char &lt;&gt;&gt; [in thread &quot;Connection worker&quot;]" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
+  </component>
+</application>

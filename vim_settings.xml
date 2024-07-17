@@ -46,27 +46,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/SearchApplication.java" timestamp="1588900571802">
-        <mark key="[" line="25" column="20" />
-      </file>
-      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/controller/IndexMappingController.java" timestamp="1588901007765">
-        <mark key="[" line="17" column="51" />
-      </file>
       <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/common/util/ESMappingUtil.java" timestamp="1588901755078">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="97" column="11" />
         <mark key="^" line="97" column="11" />
         <mark key="." line="97" column="10" />
-      </file>
-      <file name="/2020-05-08 09:47:49,269 …al char &lt;:&gt; at index 5: $" timestamp="1588902484678">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/elasticsearch/BaseIndexServiceImpl.java" timestamp="1588907719213">
-        <mark key="'" line="559" column="0" />
-        <mark key="[" line="178" column="67" />
-        <mark key="]" line="178" column="67" />
-        <mark key="^" line="178" column="67" />
-        <mark key="." line="178" column="66" />
       </file>
       <file name="E:/workspace/cv/VSB2008/02_SourceCode/src/webber/vsb/newstransmit/manage/NewsImportManage.java" timestamp="1588903784570">
         <mark key="'" line="1460" column="12" />
@@ -79,7 +63,37 @@
       <file name="$USER_HOME$/.ideavimrc" timestamp="1598334015932">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/service/impl/IndexMappingFieldServiceImpl.java" timestamp="1598334079364" />
+      <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/elasticsearch/rabbitmq/model/ModelHandleFactory.java" timestamp="1721182719621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/SearchApplication.java" timestamp="1588900571802">
+        <mark key="[" line="25" column="20" />
+      </file>
+      <file name="E:/workspace/idea/searchserver/SearchServer/src/main/java/webber/open/searchserver/frame/search/method/impl/es/ESInitUtil.java" timestamp="1721026683634">
+        <mark key="[" line="232" column="0" />
+      </file>
+      <file name="E:/workspace/idea/searchserver/SearchServer/src/main/java/webber/open/searchserver/common/HanLPTest.java" timestamp="1721022225035">
+        <mark key="[" line="23" column="8" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/manage/controller/IndexMappingController.java" timestamp="1588901007765">
+        <mark key="[" line="17" column="51" />
+      </file>
+      <file name="/2020-05-08 09:47:49,269 …al char &lt;:&gt; at index 5: $" timestamp="1588902484678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/workspace/idea/app-goverment/app-search/src/main/java/webber/open/search/elasticsearch/BaseIndexServiceImpl.java" timestamp="1588907719213">
+        <mark key="'" line="559" column="0" />
+        <mark key="[" line="178" column="67" />
+        <mark key="]" line="178" column="67" />
+        <mark key="^" line="178" column="67" />
+        <mark key="." line="178" column="66" />
+      </file>
+      <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/common/constant/ModelContentTypeEnum.java" timestamp="1720771475295">
+        <mark key="[" line="127" column="8" />
+      </file>
+      <file name="E:/workspace/idea/needleserver/src/main/java/webber/open/search/elasticsearch/rabbitmq/ContentHandleModelRecord.java" timestamp="1720774233467">
+        <mark key="[" line="86" column="12" />
+      </file>
       <file name="/fragment.java" timestamp="1588905876619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +142,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
